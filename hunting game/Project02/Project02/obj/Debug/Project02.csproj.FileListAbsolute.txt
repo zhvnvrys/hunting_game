@@ -1,0 +1,41 @@
+C:\Users\Daulet\Desktop\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Users\Daulet\Desktop\Project02\Project02\bin\Debug\Project02.exe
+C:\Users\Daulet\Desktop\Project02\Project02\bin\Debug\Project02.pdb
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.csprojAssemblyReference.cache
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.Form1.resources
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.Settings.resources
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.Properties.Resources.resources
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.csproj.GenerateResource.cache
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.csproj.CoreCompileInputs.cache
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.exe
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.pdb
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.MainGame.resources
+C:\Users\Daulet\Desktop\Project02\Project02\obj\Debug\Project02.Restart.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\bin\Debug\Project02.exe.config
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\bin\Debug\Project02.exe
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\bin\Debug\Project02.pdb
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.csproj.AssemblyReference.cache
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.csproj.SuggestedBindingRedirects.cache
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.Form1.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.Settings.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.MainGame.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.Properties.Resources.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.Restart.resources
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.csproj.GenerateResource.cache
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.csproj.CoreCompileInputs.cache
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.exe
+E:\Portfolio\University's Files\1st Semester\OOP\Project02\Project02\obj\Debug\Project02.pdb
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\bin\Debug\Project02.exe.config
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\bin\Debug\Project02.exe
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\bin\Debug\Project02.pdb
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.csproj.AssemblyReference.cache
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.csproj.SuggestedBindingRedirects.cache
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.Form1.resources
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.Settings.resources
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.MainGame.resources
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.Properties.Resources.resources
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.Restart.resources
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.csproj.GenerateResource.cache
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.csproj.CoreCompileInputs.cache
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.exe
+D:\Zhanarys\WSIZ\Project02-20230606T214911Z-001\Project02\Project02\obj\Debug\Project02.pdb
